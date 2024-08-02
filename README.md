@@ -47,4 +47,14 @@ It's understood that if you've reached this repo, in most cases it's because you
 # Final section and considerations
 With that, you should be well equipped to start your career and try your luck at the vacancies! Don't be fooled into thinking that it's an easy path that ends with just the content recommended here. **It's not, there's a lot more content you'll need. But it's a rewarding journey, from day 1 (:
 
+I'm deeply grateful for the people who pushed to do this repo: Sabrina from [Menina de CyberSec](https://www.instagram.com/meninadecybersec/) and Helena AKA [MolocoHorror](https://github.com/molocohrrr).
+
+Also, the first contribuitors for the [Brazilian Version](https://github.com/PedroKetzer/roadmap-appsecbr) of this Repo:
+- [MolocoHorror](https://github.com/molocohrrr)
+- [Jonathan Messias](https://github.com/jmessiass)
+- [Renan Silva](https://github.com/renanhsilva)
+- [Matheus Banhos](https://github.com/matheusbanhos)
+- [Raphael Carvalho](https://github.com/zraphael)
+- [4ch3rryb0mb](https://github.com/4ch3rryb0mb)
+
 If you have any questions, feel free to send me a message (I also speak Portuguese and Spanish too :D). I wish you all the success in the world on your journey o/
