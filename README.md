@@ -5,34 +5,35 @@ This repository was created with the intention of ~spreading the word of DevSecO
 Any AppSec professional is welcome to contribute and add insights!
 
 ## Why and for whom is AppSec?
-You may already have the answer in your head, but there are those who may be undecided: The AppSec area (at least in Brazil, in my view) encompasses those professionals who don't want to make a living solely from pentesting. Of course, the idea of Red Team is fantastic and attracts a lot of people to the area (the Mr. Robot series probably brought more people to the area than any other professional or course in existence), but in a way it's a very common opinion in AppSec circles that it's difficult to find companies that take the Red Team concept literally. In addition, for those who have learned programming or even been devs, they will have an easier transition and will use this knowledge much more within AppSec. This is not to say that in other areas we don't need to program, **not at all**, but anyone who likes or has already become professional through coding and has an interest in security will feel at home in AppSec (obviously, everyone will have a different experience of this).
+You may already have the answer in your head, but there are those who may be undecided: The AppSec area (at least in Brazil, in my view) encompasses those professionals who don't want to make a living solely from pentesting. Of course, the idea of Red Team is fantastic and attracts a lot of people to the area (the Mr. Robot series probably brought more people to the area than any other professional or course in existence), but in a way it's a very common opinion in AppSec circles that it's difficult to find companies that take the Red Team concept literally. In addition, for those who have learned programming or even been devs, will have an easier transition and will use this knowledge much more within AppSec. This is not to say that in other areas we don't need to program, **not at all**, but anyone who likes or has already become professional through coding and has an interest in security will feel at home in AppSec (obviously, everyone will have a different experience of this).
 
 ##### 💡TL;DR - If you don't want to be a Red Team and want to do pentests, if you've been a dev but want to be in security, AppSec is for you! In many companies, AppSecs also do pentests :D
 
 ## Can I start straight from this repo?
-It's understood that if you've reached this repo, in most cases it's because you already know that AppSec is a niche and you already know the basics of SegInfo, perhaps with the exception of programming. Don't know? Not sure? Go back a few steps and [study the beginner content of this roadmap](). It's essential because a lot of the content here will only make sense if you already have the basics down. You can also supplement with [this repo here]()
+It's understood that if you've reached this repo, in most cases it's because you already know that AppSec is a niche and you already know the basics of SegInfo, perhaps with the exception of programming. Don't know? Not sure? Go back a few steps and [study the beginner content of this roadmap](https://roadmap.sh/cyber-security). It's essential because a lot of the content here will only make sense if you already have the basics down.
 
 # Skills, Tools and topics to study
 
 ##### 💡 Click on the desired session to delve deeper into the topic. All the course/content suggestions below are free, except those marked with 💰
 
-## 🔗 [Programming and Code Review]()
+## 🔗 [Programming and Code Review](https://github.com/PedroKetzer/roadmap-appsec/blob/main/Programming%20and%20Code%20Review/Programming.md)
 
-## 🔗 [Threat Modeling]()
+## 🔗 [Modelagem de Ameaças](https://github.com/PedroKetzer/roadmap-appsec/blob/main/Threat%20Modelling/ThreatModelling.md)
 
-## 🔗 [DevOps and CI/CD automation]()
+## 🔗 [DevOps e Automações de Esteira](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/DevOps%20and%20Automations/DevOps.md)
 
-## 🔗 [DevSecOps]()
+## 🔗 [DevSecOps](https://github.com/PedroKetzer/roadmap-appsec/blob/main/DevSecOps/DevSecOps.md)
 
-## 🔗 [OWASP]()
+## 🔗 [OWASP](https://github.com/PedroKetzer/roadmap-appsec/blob/main/OWASP/OWASP.md)
 
-## 🔗 [Cloud]()
+## 🔗 [Cloud](https://github.com/PedroKetzer/roadmap-appsec/blob/main/Cloud/Cloud.md)
   
-## 🔗 [Pentests and Tools]()
+## 🔗 [Pentests e Ferramentas](https://github.com/PedroKetzer/roadmap-appsec/blob/main/Pentests%20and%20Tools/Pentests.md)
 
-## 🔗 [Mobile]()
+## 🔗 [Mobile](https://github.com/PedroKetzer/roadmap-appsec/blob/main/Mobile/Mobile.md)
 
-## 🔗 [Soft Skills]()
+## 🔗 [Soft Skills](https://github.com/PedroKetzer/roadmap-appsec/blob/main/Soft%20Skills/SoftSkills.md)
+
 
 # Extra content and cool creators to follow:
 - 
