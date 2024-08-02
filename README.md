@@ -12,7 +12,7 @@ You may already have the answer in your head, but there are those who may be und
 ## Can I start straight from this repo?
 It's understood that if you've reached this repo, in most cases it's because you already know that AppSec is a niche and you already know the basics of SegInfo, perhaps with the exception of programming. Don't know? Not sure? Go back a few steps and [study the beginner content of this roadmap](). It's essential because a lot of the content here will only make sense if you already have the basics down. You can also supplement with [this repo here]()
 
-# Skills, Ferramentas e o que estudar 
+# Skills, Tools and topics to study
 
 ##### 💡 Click on the desired session to delve deeper into the topic. All the course/content suggestions below are free, except those marked with 💰
 
