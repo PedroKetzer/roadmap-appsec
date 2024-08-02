@@ -46,7 +46,7 @@ From these points you can visualize and even draft an architecture of pipelines 
 4. **Data in Transit and Storage**
    - Data in transit includes personal customer information (name, telephone number, service address, problem summary and resolution), as well as data on the technicians responsible. All will be stored in our cloud database.
 
-5. **Available Services
+5. **Available Services**
    - We will have a BFF (Backend For Frontend) and a microservice. The BFF will receive information, while the microservice will be responsible for publishing it in the database.
 
 ## Pipeline and filter architecture

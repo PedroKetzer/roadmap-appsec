@@ -36,10 +36,14 @@ It's understood that if you've reached this repo, in most cases it's because you
 
 
 # Extra content and cool creators to follow:
-- 
+- Tayna from [She Hacks Purple](https://www.youtube.com/@SheHacksPurple)
+- The Cyber Mentor's [channel](https://www.youtube.com/@TCMSecurityAcademy)
+- [Tib3rius](https://www.youtube.com/Tib3rius)
+- Ben Sadeghipour AKA [NahamSec](https://www.youtube.com/@NahamSec)
+
 ## Videos:
 - [Learn Application Security Testing in 2024](https://www.youtube.com/watch?v=4-E5qcHvpEk)
-- 
+
 # Final section and considerations
 With that, you should be well equipped to start your career and try your luck at the vacancies! Don't be fooled into thinking that it's an easy path that ends with just the content recommended here. **It's not, there's a lot more content you'll need. But it's a rewarding journey, from day 1 (:
 
